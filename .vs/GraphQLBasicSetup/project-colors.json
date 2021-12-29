@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2974030-80cf-48c9-b670-f090ac5eb6d8": {
+      "ProjectGuid": "a2974030-80cf-48c9-b670-f090ac5eb6d8",
+      "DisplayName": "GraphQLBasicSetup",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
